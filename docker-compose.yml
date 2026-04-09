@@ -1,0 +1,5 @@
+services:
+  webserver:
+    image: ghcr.io/calvinerdiansyah/nginx-calvinsaputra
+    ports:
+      - "8080:80"
