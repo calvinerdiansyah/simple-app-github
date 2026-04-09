@@ -1,10 +1,4 @@
 name: Build, Push and Deploy Image
-run-name: Build, Push and Deploy 
-Imageon: [push]
-env:
-  IMAGE_NAME: "ghcr.io/calvinerdiansyah/nginx-calvinsaputra"
-jobs:
-name: Build, Push and Deploy Image
 run-name: Build, Push and Deploy Image
 
 on: [push]
