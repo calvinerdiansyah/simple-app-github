@@ -1,4 +1,4 @@
-name: Build, Push and Deploy Image
+run-name: Build Push Deploy Image
 on: [push]
 env:
   IMAGE_NAME: "ghcr.io/calvinerdiansyah/nginx-calvinsaputra"
